@@ -1,3 +1,4 @@
 メガ進化
 git add
 git commit
+git remove
